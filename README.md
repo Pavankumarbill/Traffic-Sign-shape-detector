@@ -3,3 +3,6 @@ This project detects traffic signs and their shape
 <br> We trained YOLO v8 model to detect traffic sign in the frame and then used opencv to find countour and then find the shape of the detected sign
 <br> we used [this](dataset)
 # Installation
+-`pip install -r requirements.txt`
+# to run the code on test image
+-`python run_on_images.py --weights models/best.pt --source test_images/image1.jpg`
