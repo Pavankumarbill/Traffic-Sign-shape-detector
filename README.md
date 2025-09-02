@@ -4,6 +4,6 @@ This project detects traffic signs and their shape
 <br> we used [this](dataset)
 # Installation
 -`pip install -r requirements.txt`
-# to run the code on test image
+# To run the code on test image
 -`python run_on_images.py --weights models/best.pt --source test_images/image1.jpg`
 <br> here is the result
