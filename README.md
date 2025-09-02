@@ -7,5 +7,6 @@ This project detects traffic signs and their shape
 # To run the code on test image on webcam:
 -<b>`python run_on_images.py --weights models/best.pt --source test_images/image1.jpg`</b>
 <br><br> Here is the result:
-
+<br>
+![output image](images/sample.jpg)
 
