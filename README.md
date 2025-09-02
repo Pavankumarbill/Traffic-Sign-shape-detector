@@ -6,3 +6,4 @@ This project detects traffic signs and their shape
 -`pip install -r requirements.txt`
 # to run the code on test image
 -`python run_on_images.py --weights models/best.pt --source test_images/image1.jpg`
+<br> here is the result
